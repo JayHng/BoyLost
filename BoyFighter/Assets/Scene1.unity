@@ -184,7 +184,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 10.021507, y: 0.90248305}
+  m_Size: {x: 9.134065, y: 0.80004984}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 1
   m_WasSpriteAssigned: 1
@@ -198,7 +198,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 560285497}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.615, y: -1.949, z: 0}
+  m_LocalPosition: {x: 0.14, y: -1.56, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -222,13 +222,13 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 0.84210527, y: 0.8947368}
-    newSize: {x: 10.021507, y: 0.90248305}
+    newSize: {x: 9.134065, y: 0.80004984}
     adaptiveTilingThreshold: 0.5
     drawMode: 2
     adaptiveTiling: 1
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 10.07, y: 0.8947368}
+  m_Size: {x: 9.15, y: 0.82}
   m_EdgeRadius: 0
 --- !u!1 &1320951520
 GameObject:
@@ -397,7 +397,10 @@ MonoBehaviour:
   speed: 50
   maxSpeed: 3
   jumpPow: 220
+  grounded: 1
+  faceright: 1
   boy: {fileID: 1320951523}
+  anim: {fileID: 0}
 --- !u!1 &1920609102
 GameObject:
   m_ObjectHideFlags: 0

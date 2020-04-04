@@ -33,7 +33,7 @@ public class Player : MonoBehaviour
                 if(doubleJump){
                     doubleJump = false;
                     boy.velocity = new Vector2 (boy.velocity.x, 0);
-                    boy.AddForce(Vector2.up * jumpPow * 0.6f);
+                    boy.AddForce(Vector2.up * jumpPow * 0.7f);
                 }
             }
         }
@@ -54,6 +54,9 @@ public class Player : MonoBehaviour
         }
         if(h<0 && faceright){
             Flip();
+        }
+        if(grounded){
+            boy.velocity = new Vector2(boy.velocity.x * 0.7f, boy.velocity.y);
         }
     }
 

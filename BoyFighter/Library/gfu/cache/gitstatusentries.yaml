@@ -13,37 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-03T23:18:02.213-04:00
-  initializedAtString: 2020-04-03T17:58:26.317-04:00
+  lastUpdatedAtString: 2020-04-04T01:55:08.078-04:00
+  initializedAtString: 2020-04-03T23:21:51.555-04:00
   entries:
-  - path: BoyFighter\Assets\Animation\Player.controller
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\Player.controller
-    projectPath: Assets\Animation\Player.controller
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Assets\Scene1.unity
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scene1.unity
-    projectPath: Assets\Scene1.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Assets\Script\GroundCheck.cs
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\GroundCheck.cs
-    projectPath: Assets\Script\GroundCheck.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Script\GroundCheck.cs.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\GroundCheck.cs.meta
-    projectPath: Assets\Script\GroundCheck.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: BoyFighter\Assets\Script\Player.cs
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Script\Player.cs
@@ -58,45 +30,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoyFighter\Library\Artifacts\03\03475518b9367e974f4b148d93d6ff8e
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\03\03475518b9367e974f4b148d93d6ff8e
-    projectPath: Library\Artifacts\03\03475518b9367e974f4b148d93d6ff8e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\35\35a36eed102a8197a265c31531c2f57f
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\35\35a36eed102a8197a265c31531c2f57f
-    projectPath: Library\Artifacts\35\35a36eed102a8197a265c31531c2f57f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: BoyFighter\Library\Artifacts\35\35cb325d56d33e23b0814499cf00f25a
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\35\35cb325d56d33e23b0814499cf00f25a
     projectPath: Library\Artifacts\35\35cb325d56d33e23b0814499cf00f25a
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\5d\5d79ec44cb10151c35308d116ee553ef
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\5d\5d79ec44cb10151c35308d116ee553ef
+    projectPath: Library\Artifacts\5d\5d79ec44cb10151c35308d116ee553ef
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\3e\3e7d3727d65e7a8173f255f3b918ee82
+  - path: BoyFighter\Library\Artifacts\7e\7edd9347ae52163dea8264285dbacb3d
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\3e\3e7d3727d65e7a8173f255f3b918ee82
-    projectPath: Library\Artifacts\3e\3e7d3727d65e7a8173f255f3b918ee82
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: BoyFighter\Library\Artifacts\40\40e27dc07a088f9065bc191a827ed0aa
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\40\40e27dc07a088f9065bc191a827ed0aa
-    projectPath: Library\Artifacts\40\40e27dc07a088f9065bc191a827ed0aa
-    originalPath: 
-    indexStatus: 5
-    workTreeStatus: 0
-  - path: BoyFighter\Library\Artifacts\5a\5ab86af61df6799ca2ccc8bdadbf5eb1
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\5a\5ab86af61df6799ca2ccc8bdadbf5eb1
-    projectPath: Library\Artifacts\5a\5ab86af61df6799ca2ccc8bdadbf5eb1
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\7e\7edd9347ae52163dea8264285dbacb3d
+    projectPath: Library\Artifacts\7e\7edd9347ae52163dea8264285dbacb3d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -105,29 +56,36 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\97\972fc3453cc68df9de7ae577cbcf3b84
     projectPath: Library\Artifacts\97\972fc3453cc68df9de7ae577cbcf3b84
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\cb\cb903a06a0346456600a05beb11bbe7a
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\cb\cb903a06a0346456600a05beb11bbe7a
+    projectPath: Library\Artifacts\cb\cb903a06a0346456600a05beb11bbe7a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Library\Artifacts\d0\d0c05bb9567e60c2e25f047a501a75b5
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\d0\d0c05bb9567e60c2e25f047a501a75b5
     projectPath: Library\Artifacts\d0\d0c05bb9567e60c2e25f047a501a75b5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Library\Artifacts\ee\ee76d438a67d7d9cef334a3173ed2e98
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\ee\ee76d438a67d7d9cef334a3173ed2e98
     projectPath: Library\Artifacts\ee\ee76d438a67d7d9cef334a3173ed2e98
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\EditorInstance.json
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
   - path: BoyFighter\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\branches.yaml
@@ -140,7 +98,7 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: BoyFighter\Library\gfu\cache\gitlog.yaml
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
@@ -154,21 +112,28 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: BoyFighter\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: BoyFighter\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: BoyFighter\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
     workTreeStatus: 3
   - path: BoyFighter\Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
@@ -182,7 +147,7 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: BoyFighter\Library\StateCache\Hierarchy\e24309-mainStage.json
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
@@ -198,17 +163,17 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: BoyFighter\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: BoyFighter\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Temp\_270254493\left\Library\ArtifactDB
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\_270254493\left\Library\ArtifactDB
-    projectPath: Temp\_270254493\left\Library\ArtifactDB
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -219,52 +184,17 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Temp\UnityTempFile-0735002ae05d3904185b42a56a442d09
+  - path: BoyFighter\Temp\UnityTempFile-bede6e75d95231741bbffaa808e68f43
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-0735002ae05d3904185b42a56a442d09
-    projectPath: Temp\UnityTempFile-0735002ae05d3904185b42a56a442d09
+      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-bede6e75d95231741bbffaa808e68f43
+    projectPath: Temp\UnityTempFile-bede6e75d95231741bbffaa808e68f43
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Temp\UnityTempFile-211e0a53d6be5374ab723028eb8b6aa4
+  - path: BoyFighter\Temp\UnityTempFile-e87758770278f6e4d8b0850dec1907cb
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-211e0a53d6be5374ab723028eb8b6aa4
-    projectPath: Temp\UnityTempFile-211e0a53d6be5374ab723028eb8b6aa4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Temp\UnityTempFile-2fa14a2de0669d146ac735fe90720bec
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-2fa14a2de0669d146ac735fe90720bec
-    projectPath: Temp\UnityTempFile-2fa14a2de0669d146ac735fe90720bec
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Temp\UnityTempFile-53a78ab81904a1044b3e6b6dc48aba87
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-53a78ab81904a1044b3e6b6dc48aba87
-    projectPath: Temp\UnityTempFile-53a78ab81904a1044b3e6b6dc48aba87
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Temp\UnityTempFile-6329f8b6654d9ec48b1acc9a0cef8244
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-6329f8b6654d9ec48b1acc9a0cef8244
-    projectPath: Temp\UnityTempFile-6329f8b6654d9ec48b1acc9a0cef8244
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Temp\UnityTempFile-98471f99356d43c4498d1c286607cc83
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-98471f99356d43c4498d1c286607cc83
-    projectPath: Temp\UnityTempFile-98471f99356d43c4498d1c286607cc83
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Temp\UnityTempFile-c2128baa85da8fd46b3c40eba5064da0
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-c2128baa85da8fd46b3c40eba5064da0
-    projectPath: Temp\UnityTempFile-c2128baa85da8fd46b3c40eba5064da0
+      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-e87758770278f6e4d8b0850dec1907cb
+    projectPath: Temp\UnityTempFile-e87758770278f6e4d8b0850dec1907cb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

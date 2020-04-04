@@ -5,7 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public float speed = 50f, maxSpeed=3f, jumpPow = 220f;
-    public bool grounded = true, faceright = true;
+    public bool grounded = true, faceright = true, doubleJump = false;
 
     public Rigidbody2D boy;  
     public Animator anim;  
@@ -26,7 +26,15 @@ public class Player : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space)){
             if (grounded){
                 grounded=false;
+                doubleJump = true;
                 boy.AddForce(Vector2.up * jumpPow);
+            }
+            else{
+                if(doubleJump){
+                    doubleJump = false;
+                    boy.velocity = new Vector2 (boy.velocity.x, 0);
+                    boy.AddForce(Vector2.up * jumpPow * 0.6f);
+                }
             }
         }
     }
@@ -36,10 +44,10 @@ public class Player : MonoBehaviour
         boy.AddForce((Vector2.right) * speed * h);
 
         if (boy.velocity.x > maxSpeed){
-            boy.velocity = new Vector2(maxSpeed, boy.position.y);
+            boy.velocity = new Vector2(maxSpeed, boy.velocity.y);
         }
          if (boy.velocity.x < -maxSpeed){
-            boy.velocity = new Vector2(-maxSpeed, boy.position.y);
+            boy.velocity = new Vector2(-maxSpeed, boy.velocity.y);
         }
         if(h>0 && !faceright){
             Flip();

@@ -13,9 +13,161 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-04-04T01:54:58.091-04:00
-  initializedAtString: 2020-04-04T00:02:47.478-04:00
+  lastUpdatedAtString: 2020-04-04T17:16:17.734-04:00
+  initializedAtString: 2020-04-04T17:07:31.728-04:00
   log:
+  - commitID: 9ed330bce265952eefabdc0eb7d1e28edb8cc498
+    mergeA: 
+    mergeB: 
+    authorName: Jay
+    authorEmail: mhanhxv@gmail.com
+    commitEmail: mhanhxv@gmail.com
+    commitName: Jay
+    summary: "t\u0103ng ma s\xE1t"
+    description: 
+    timeString: 2020-04-04T01:55:46.000-04:00
+    commitTimeString: 2020-04-04T01:55:46.000-04:00
+    changes:
+    - path: BoyFighter\Assets\Scene1.unity
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scene1.unity
+      projectPath: Assets\Scene1.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Script\Player.cs
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Script\Player.cs
+      projectPath: Assets\Script\Player.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\ArtifactDB
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\5d\5d79ec44cb10151c35308d116ee553ef
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\5d\5d79ec44cb10151c35308d116ee553ef
+      projectPath: Library\Artifacts\5d\5d79ec44cb10151c35308d116ee553ef
+      originalPath: BoyFighter\Library\Artifacts\35\35cb325d56d33e23b0814499cf00f25a
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\7e\7edd9347ae52163dea8264285dbacb3d
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\7e\7edd9347ae52163dea8264285dbacb3d
+      projectPath: Library\Artifacts\7e\7edd9347ae52163dea8264285dbacb3d
+      originalPath: BoyFighter\Library\Artifacts\97\972fc3453cc68df9de7ae577cbcf3b84
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\cb\cb903a06a0346456600a05beb11bbe7a
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\cb\cb903a06a0346456600a05beb11bbe7a
+      projectPath: Library\Artifacts\cb\cb903a06a0346456600a05beb11bbe7a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\d0\d0c05bb9567e60c2e25f047a501a75b5
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\d0\d0c05bb9567e60c2e25f047a501a75b5
+      projectPath: Library\Artifacts\d0\d0c05bb9567e60c2e25f047a501a75b5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\ee\ee76d438a67d7d9cef334a3173ed2e98
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\ee\ee76d438a67d7d9cef334a3173ed2e98
+      projectPath: Library\Artifacts\ee\ee76d438a67d7d9cef334a3173ed2e98
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\SourceAssetDB
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\StateCache\SceneView\6df7dc-mainStage.json
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\StateCache\SceneView\6df7dc-mainStage.json
+      projectPath: Library\StateCache\SceneView\6df7dc-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: b41173e1d0a6d1c85812b37ab9dd7aa961ec4f47
     mergeA: 
     mergeB: 

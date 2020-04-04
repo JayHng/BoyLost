@@ -4,11 +4,14 @@ using UnityEngine;
 
 public class GroundCheck : MonoBehaviour
 {
+    public MovingPla mov;
     public Player player;
+    public Vector3 movingplat;
 
     // Start is called before the first frame update
     void Start()
     {
+        mov = GameObject.FindGameObjectWithTag("MovingPlat").GetComponent<MovingPla>();
         player = gameObject.GetComponentInParent<Player>();
     }
 
@@ -18,16 +21,21 @@ public class GroundCheck : MonoBehaviour
 
     }
 
-    void OnTriggerEnter2D(Collider2D collider) {
+    void OnTriggerEnter2D(Collider2D collision) {
         player.grounded = true;
     }
 
-    private void OnTriggerStay2D(Collider2D other) {
-        player.grounded = true;
+    private void OnTriggerStay2D(Collider2D collision) {
+        // if(collision.isTrigger == false && collision.CompareTag("MovingPlat"))
+        // {
+        //     movingplat = player.transform.position;
+        //     movingplat.x = mov.speed * 1.3f;
+        //     player.transform.position = movingplat;
+        // }
+       player.grounded = true;
 
     }
-    private void OnTriggerExit2D(Collider2D collider) {
+    private void OnTriggerExit2D(Collider2D collision) {
         player.grounded = false;
-
     }
 }

@@ -140,7 +140,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &202225851
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -478,7 +478,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1320951520}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 25.55, y: 1.54, z: 0}
+  m_LocalPosition: {x: 6.43, y: 1.54, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -584,7 +584,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mov: {fileID: 0}
   player: {fileID: 1320951526}
-  movingplat: {x: 0, y: 0, z: 0}
 --- !u!61 &1320951528
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1155,6 +1154,7 @@ GameObject:
   - component: {fileID: 1920609105}
   - component: {fileID: 1920609104}
   - component: {fileID: 1920609103}
+  - component: {fileID: 1920609106}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1221,9 +1221,27 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1920609102}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 32.59, y: 1.33, z: -10}
+  m_LocalPosition: {x: 14.49, y: 1.33, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1920609106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1920609102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28329afb5c9ecff4e8da20c741c71d5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 1320951520}
+  addDistanceCamera: 0
+  cameraSpeedMove: 5
+  minClam: -3
+  maxClam: 5
+  followTarget: 0

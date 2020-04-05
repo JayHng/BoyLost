@@ -6,19 +6,12 @@ public class GroundCheck : MonoBehaviour
 {
     public MovingPla mov;
     public Player player;
-    public Vector3 movingplat;
 
     // Start is called before the first frame update
     void Start()
     {
-        mov = GameObject.FindGameObjectWithTag("MovingPlat").GetComponent<MovingPla>();
+        //mov = GameObject.FindGameObjectWithTag("MovingPlat").GetComponent<MovingPla>();
         player = gameObject.GetComponentInParent<Player>();
-    }
-
-    // Update is called once per frame
-    void FixedUpdate()
-    {
-
     }
 
     void OnTriggerEnter2D(Collider2D collision) {
@@ -32,7 +25,7 @@ public class GroundCheck : MonoBehaviour
         //     movingplat.x = mov.speed * 1.3f;
         //     player.transform.position = movingplat;
         // }
-       player.grounded = true;
+        player.grounded = true;
 
     }
     private void OnTriggerExit2D(Collider2D collision) {

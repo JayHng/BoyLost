@@ -1,11 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
     public float speed = 50f, maxSpeed=3f, jumpPow = 220f;
     public bool grounded = true, faceright = true, doubleJump = false;
+    public int currentHP;
+    public int maxHP = 5;
 
     public Rigidbody2D boy;  
     public Animator anim;  
@@ -14,7 +17,7 @@ public class Player : MonoBehaviour
     {
         boy = gameObject.GetComponent<Rigidbody2D>();
         anim = gameObject.GetComponent<Animator>();
-
+        currentHP = maxHP;
     }
 
     // Update is called once per frame
@@ -58,6 +61,9 @@ public class Player : MonoBehaviour
         if(grounded){
             boy.velocity = new Vector2(boy.velocity.x * 0.7f, boy.velocity.y);
         }
+        if(currentHP<0){
+            Death();
+        }
     }
 
     public void Flip(){  
@@ -68,4 +74,9 @@ public class Player : MonoBehaviour
         transform.localScale = Scale;
         
     }
+
+    public void Death(){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
 }

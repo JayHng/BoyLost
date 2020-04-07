@@ -61,7 +61,7 @@ public class Player : MonoBehaviour
         if(grounded){
             boy.velocity = new Vector2(boy.velocity.x * 0.7f, boy.velocity.y);
         }
-        if(currentHP<0){
+        if(currentHP<=0){
             Death();
         }
     }
@@ -79,4 +79,7 @@ public class Player : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
+    public void Damage(int damage){
+        currentHP -= damage;
+    }
 }

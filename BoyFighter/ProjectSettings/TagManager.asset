@@ -7,6 +7,7 @@ TagManager:
   - FallingPlat
   - MovingPlat
   - Ground
+  - Spike
   layers:
   - Default
   - TransparentFX

@@ -13,9 +13,1398 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-04-05T02:31:47.737-04:00
-  initializedAtString: 2020-04-05T01:31:24.844-04:00
+  lastUpdatedAtString: 2020-04-07T17:30:38.547-04:00
+  initializedAtString: 2020-04-07T16:56:22.286-04:00
   log:
+  - commitID: 55b19b3adf5cd27ff7c019674c236655fceba3f5
+    mergeA: 
+    mergeB: 
+    authorName: Jay
+    authorEmail: mhanhxv@gmail.com
+    commitEmail: mhanhxv@gmail.com
+    commitName: Jay
+    summary: Player Heart UI
+    description: Player health UI with hearts
+    timeString: 2020-04-05T23:11:30.000-04:00
+    commitTimeString: 2020-04-05T23:11:30.000-04:00
+    changes:
+    - path: BoyFighter\Assets\Scene1.unity
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scene1.unity
+      projectPath: Assets\Scene1.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\Hearts.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\Hearts.png
+      projectPath: Assets\Scenes\Platform\UI\Hearts.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\Hearts.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\Hearts.png.meta
+      projectPath: Assets\Scenes\Platform\UI\Hearts.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life.meta
+      projectPath: Assets\Scenes\Platform\UI\life.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\1sprite9.aseprite
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\1sprite9.aseprite
+      projectPath: Assets\Scenes\Platform\UI\life\1sprite9.aseprite
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\1sprite9.aseprite.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\1sprite9.aseprite.meta
+      projectPath: Assets\Scenes\Platform\UI\life\1sprite9.aseprite.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\2sprite9.aseprite
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\2sprite9.aseprite
+      projectPath: Assets\Scenes\Platform\UI\life\2sprite9.aseprite
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\2sprite9.aseprite.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\2sprite9.aseprite.meta
+      projectPath: Assets\Scenes\Platform\UI\life\2sprite9.aseprite.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\3sprite9.aseprite
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\3sprite9.aseprite
+      projectPath: Assets\Scenes\Platform\UI\life\3sprite9.aseprite
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\3sprite9.aseprite.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\3sprite9.aseprite.meta
+      projectPath: Assets\Scenes\Platform\UI\life\3sprite9.aseprite.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\4sprite9.aseprite
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\4sprite9.aseprite
+      projectPath: Assets\Scenes\Platform\UI\life\4sprite9.aseprite
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\4sprite9.aseprite.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\4sprite9.aseprite.meta
+      projectPath: Assets\Scenes\Platform\UI\life\4sprite9.aseprite.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\5sprite9.aseprite
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\5sprite9.aseprite
+      projectPath: Assets\Scenes\Platform\UI\life\5sprite9.aseprite
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\5sprite9.aseprite.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\5sprite9.aseprite.meta
+      projectPath: Assets\Scenes\Platform\UI\life\5sprite9.aseprite.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\aboutdeveloper.txt
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\aboutdeveloper.txt
+      projectPath: Assets\Scenes\Platform\UI\life\aboutdeveloper.txt
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\aboutdeveloper.txt.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\aboutdeveloper.txt.meta
+      projectPath: Assets\Scenes\Platform\UI\life\aboutdeveloper.txt.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h1.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h1.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h1.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h1.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h1.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h1.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h10.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h10.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h10.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h10.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h10.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h10.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h11.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h11.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h11.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h11.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h11.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h11.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h12.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h12.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h12.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h12.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h12.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h12.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h13.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h13.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h13.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h13.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h13.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h13.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h2.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h2.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h2.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h2.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h2.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h2.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h3.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h3.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h3.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h3.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h3.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h3.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h4.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h4.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h4.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h4.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h4.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h4.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h5.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h5.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h5.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h5.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h5.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h5.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h6.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h6.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h6.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h6.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h6.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h6.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h7.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h7.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h7.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h7.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h7.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h7.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h8.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h8.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h8.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h8.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h8.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h8.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h9.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h9.png
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h9.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h9.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\almosthalflife\h9.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\almosthalflife\h9.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\death.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\death.meta
+      projectPath: Assets\Scenes\Platform\UI\life\death.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\death\death.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\death\death.png
+      projectPath: Assets\Scenes\Platform\UI\life\death\death.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\death\death.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\death\death.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\death\death.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\death\death2.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\death\death2.png
+      projectPath: Assets\Scenes\Platform\UI\life\death\death2.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\death\death2.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\death\death2.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\death\death2.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h1.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h1.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h1.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h1.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h1.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h1.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h10.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h10.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h10.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h10.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h10.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h10.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h11.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h11.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h11.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h11.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h11.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h11.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h12.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h12.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h12.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h12.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h12.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h12.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h13.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h13.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h13.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h13.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h13.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h13.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h2.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h2.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h2.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h2.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h2.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h2.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h3.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h3.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h3.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h3.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h3.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h3.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h4.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h4.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h4.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h4.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h4.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h4.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h5.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h5.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h5.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h5.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h5.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h5.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h6.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h6.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h6.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h6.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h6.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h6.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h7.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h7.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h7.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h7.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h7.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h7.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h8.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h8.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h8.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h8.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h8.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h8.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h9.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h9.png
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h9.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h9.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\fulllife\h9.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\fulllife\h9.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h1.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h1.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h1.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h1.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h1.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h1.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h10.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h10.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h10.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h10.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h10.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h10.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h11.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h11.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h11.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h11.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h11.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h11.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h12.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h12.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h12.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h12.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h12.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h12.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h13.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h13.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h13.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h13.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h13.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h13.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h2.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h2.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h2.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h2.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h2.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h2.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h3.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h3.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h3.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h3.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h3.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h3.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h4.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h4.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h4.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h4.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h4.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h4.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h5.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h5.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h5.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h5.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h5.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h5.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h6.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h6.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h6.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h6.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h6.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h6.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h7.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h7.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h7.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h7.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h7.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h7.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h8.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h8.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h8.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h8.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h8.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h8.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h9.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h9.png
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h9.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h9.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\halflife\h9.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\halflife\h9.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h1.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h1.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h1.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h1.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h1.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h1.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h10.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h10.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h10.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h10.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h10.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h10.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h11.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h11.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h11.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h11.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h11.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h11.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h12.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h12.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h12.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h12.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h12.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h12.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h13.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h13.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h13.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h13.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h13.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h13.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h2.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h2.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h2.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h2.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h2.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h2.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h3.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h3.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h3.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h3.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h3.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h3.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h4.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h4.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h4.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h4.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h4.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h4.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h5.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h5.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h5.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h5.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h5.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h5.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h6.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h6.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h6.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h6.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h6.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h6.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h7.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h7.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h7.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h7.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h7.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h7.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h8.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h8.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h8.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h8.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h8.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h8.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h9.png
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h9.png
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h9.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h9.png.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\life\onelife\h9.png.meta
+      projectPath: Assets\Scenes\Platform\UI\life\onelife\h9.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Script\HeartUI.cs
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Script\HeartUI.cs
+      projectPath: Assets\Script\HeartUI.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Script\HeartUI.cs.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Script\HeartUI.cs.meta
+      projectPath: Assets\Script\HeartUI.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Script\Player.cs
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Script\Player.cs
+      projectPath: Assets\Script\Player.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\ArtifactDB
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\08\083b62061c291831dbe961383a0a5c61
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\08\083b62061c291831dbe961383a0a5c61
+      projectPath: Library\Artifacts\08\083b62061c291831dbe961383a0a5c61
+      originalPath: BoyFighter\Library\Artifacts\27\274cd736e6796a7c2dcb571d12ef9d43
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\10\10da3d006035a37dd5ef5d20540c4038
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\10\10da3d006035a37dd5ef5d20540c4038
+      projectPath: Library\Artifacts\10\10da3d006035a37dd5ef5d20540c4038
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\23\23a75fe4933ed138d460abc2fb0b14c8
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\23\23a75fe4933ed138d460abc2fb0b14c8
+      projectPath: Library\Artifacts\23\23a75fe4933ed138d460abc2fb0b14c8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\2d\2d8346d9ea6aa1d368f24fd886271d0b
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\2d\2d8346d9ea6aa1d368f24fd886271d0b
+      projectPath: Library\Artifacts\2d\2d8346d9ea6aa1d368f24fd886271d0b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\41\41e6bee2fe54c4afccee89068fcfde81
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\41\41e6bee2fe54c4afccee89068fcfde81
+      projectPath: Library\Artifacts\41\41e6bee2fe54c4afccee89068fcfde81
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\51\51fdc17e5f8aacd7098f7f38a687c1dd
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\51\51fdc17e5f8aacd7098f7f38a687c1dd
+      projectPath: Library\Artifacts\51\51fdc17e5f8aacd7098f7f38a687c1dd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\53\53c9c5c8b938a8d4f879437afa9c0a2c
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\53\53c9c5c8b938a8d4f879437afa9c0a2c
+      projectPath: Library\Artifacts\53\53c9c5c8b938a8d4f879437afa9c0a2c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\60\60780048544d20f592c1d4257d673049
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\60\60780048544d20f592c1d4257d673049
+      projectPath: Library\Artifacts\60\60780048544d20f592c1d4257d673049
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\86\86153c7d18c336e236661d505829651b
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\86\86153c7d18c336e236661d505829651b
+      projectPath: Library\Artifacts\86\86153c7d18c336e236661d505829651b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\89\89f18ce83106a77c5d62ddffc2e8e7e3
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\89\89f18ce83106a77c5d62ddffc2e8e7e3
+      projectPath: Library\Artifacts\89\89f18ce83106a77c5d62ddffc2e8e7e3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\98\98aee92b37a7e0619e8e557a5cbc6670
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\98\98aee92b37a7e0619e8e557a5cbc6670
+      projectPath: Library\Artifacts\98\98aee92b37a7e0619e8e557a5cbc6670
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\bd\bd9f4086e2dc01f98b44e96bf8b1d366
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\bd\bd9f4086e2dc01f98b44e96bf8b1d366
+      projectPath: Library\Artifacts\bd\bd9f4086e2dc01f98b44e96bf8b1d366
+      originalPath: BoyFighter\Library\Artifacts\35\35455560f6b0125d936c6177a2dd2f1d
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\c5\c55737d8cca3d7d4e35bce074b418d0b
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\c5\c55737d8cca3d7d4e35bce074b418d0b
+      projectPath: Library\Artifacts\c5\c55737d8cca3d7d4e35bce074b418d0b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\f1\f1b2bb772d57b9253dc3b8a58515a395
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\f1\f1b2bb772d57b9253dc3b8a58515a395
+      projectPath: Library\Artifacts\f1\f1b2bb772d57b9253dc3b8a58515a395
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\f7\f7494fe205461c76285cdee4a2872707
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\f7\f7494fe205461c76285cdee4a2872707
+      projectPath: Library\Artifacts\f7\f7494fe205461c76285cdee4a2872707
+      originalPath: BoyFighter\Library\Artifacts\c8\c8175699e6ac56a53ba84b58bb7a9c68
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\f8\f888210f0c414bb1e42a0fa6827cef13
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\f8\f888210f0c414bb1e42a0fa6827cef13
+      projectPath: Library\Artifacts\f8\f888210f0c414bb1e42a0fa6827cef13
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\SceneVisibilityState.asset
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\ShaderCache\8\8fdb512065e81faedb7ce574e682d9b0.bin
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\ShaderCache\8\8fdb512065e81faedb7ce574e682d9b0.bin
+      projectPath: Library\ShaderCache\8\8fdb512065e81faedb7ce574e682d9b0.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\ShaderCache\f\f5a98c19f2b8687c04757349b4baca6f.bin
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\ShaderCache\f\f5a98c19f2b8687c04757349b4baca6f.bin
+      projectPath: Library\ShaderCache\f\f5a98c19f2b8687c04757349b4baca6f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\SourceAssetDB
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\StateCache\SceneView\6df7dc-mainStage.json
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\StateCache\SceneView\6df7dc-mainStage.json
+      projectPath: Library\StateCache\SceneView\6df7dc-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\expandedItems
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 7b0078ac041c004e13b62b05cd321ec0e7c84d5d
+    mergeA: 
+    mergeB: 
+    authorName: Jay
+    authorEmail: mhanhxv@gmail.com
+    commitEmail: mhanhxv@gmail.com
+    commitName: Jay
+    summary: Camera Follow Player
+    description: Perfect Camera follow the Character
+    timeString: 2020-04-05T02:43:53.000-04:00
+    commitTimeString: 2020-04-05T02:43:53.000-04:00
+    changes:
+    - path: BoyFighter\Assets\Scene1.unity
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Scene1.unity
+      projectPath: Assets\Scene1.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Script\CameraFollow.cs
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Script\CameraFollow.cs
+      projectPath: Assets\Script\CameraFollow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Script\CameraFollow.cs.meta
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Script\CameraFollow.cs.meta
+      projectPath: Assets\Script\CameraFollow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Assets\Script\GroundCheck.cs
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Assets\Script\GroundCheck.cs
+      projectPath: Assets\Script\GroundCheck.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\ArtifactDB
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\10\10da3d006035a37dd5ef5d20540c4038
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\10\10da3d006035a37dd5ef5d20540c4038
+      projectPath: Library\Artifacts\10\10da3d006035a37dd5ef5d20540c4038
+      originalPath: BoyFighter\Library\Artifacts\1a\1a4ea1c681bd661ee2ecb4ff1e791dac
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\23\23a75fe4933ed138d460abc2fb0b14c8
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\23\23a75fe4933ed138d460abc2fb0b14c8
+      projectPath: Library\Artifacts\23\23a75fe4933ed138d460abc2fb0b14c8
+      originalPath: BoyFighter\Library\Artifacts\35\35a36eed102a8197a265c31531c2f57f
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\27\274cd736e6796a7c2dcb571d12ef9d43
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\27\274cd736e6796a7c2dcb571d12ef9d43
+      projectPath: Library\Artifacts\27\274cd736e6796a7c2dcb571d12ef9d43
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\35\35455560f6b0125d936c6177a2dd2f1d
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\35\35455560f6b0125d936c6177a2dd2f1d
+      projectPath: Library\Artifacts\35\35455560f6b0125d936c6177a2dd2f1d
+      originalPath: BoyFighter\Library\Artifacts\78\78cdf90779ee76ec309e8df44227c64c
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\53\53c9c5c8b938a8d4f879437afa9c0a2c
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\53\53c9c5c8b938a8d4f879437afa9c0a2c
+      projectPath: Library\Artifacts\53\53c9c5c8b938a8d4f879437afa9c0a2c
+      originalPath: BoyFighter\Library\Artifacts\35\3584b7aafa6441f8ac5902bf5a5bc6bb
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\86\86153c7d18c336e236661d505829651b
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\86\86153c7d18c336e236661d505829651b
+      projectPath: Library\Artifacts\86\86153c7d18c336e236661d505829651b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\9e\9e8a05a7bdb6d7ab302f4d03457766c1
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\9e\9e8a05a7bdb6d7ab302f4d03457766c1
+      projectPath: Library\Artifacts\9e\9e8a05a7bdb6d7ab302f4d03457766c1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\c5\c55737d8cca3d7d4e35bce074b418d0b
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\c5\c55737d8cca3d7d4e35bce074b418d0b
+      projectPath: Library\Artifacts\c5\c55737d8cca3d7d4e35bce074b418d0b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\c8\c8175699e6ac56a53ba84b58bb7a9c68
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\c8\c8175699e6ac56a53ba84b58bb7a9c68
+      projectPath: Library\Artifacts\c8\c8175699e6ac56a53ba84b58bb7a9c68
+      originalPath: BoyFighter\Library\Artifacts\5f\5fdf16096c22bcdb921a4c02c47e519e
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\cc\cc191fd00e97032e6fc26b4940e1fc3f
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\cc\cc191fd00e97032e6fc26b4940e1fc3f
+      projectPath: Library\Artifacts\cc\cc191fd00e97032e6fc26b4940e1fc3f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\Artifacts\f1\f1b2bb772d57b9253dc3b8a58515a395
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\f1\f1b2bb772d57b9253dc3b8a58515a395
+      projectPath: Library\Artifacts\f1\f1b2bb772d57b9253dc3b8a58515a395
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: BoyFighter\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\SourceAssetDB
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\StateCache\SceneView\6df7dc-mainStage.json
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\StateCache\SceneView\6df7dc-mainStage.json
+      projectPath: Library\StateCache\SceneView\6df7dc-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: BoyFighter\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+        systems\2D Platform\BoyLost\BoyFighter\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: dd0849715b84888fa67eec7e663a89957979cf96
     mergeA: 
     mergeB: 

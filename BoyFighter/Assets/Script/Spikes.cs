@@ -17,8 +17,10 @@ public class Spikes : MonoBehaviour
     /// <param name="other">The other Collider involved in this collision.</param>
     private void OnTriggerEnter2D(Collider2D col)
     {
+        //if the collider of the spike touch thing wwil the tag "Player", take damage and move to new position(Knockback)
         if(col.CompareTag("Player")){
             player.Damage(1);
+            player.Knockback(150f, player.transform.position);
         }
     }
     // Update is called once per frame

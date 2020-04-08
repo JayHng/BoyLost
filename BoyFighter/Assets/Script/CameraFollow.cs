@@ -24,7 +24,8 @@ public class CameraFollow : MonoBehaviour
     void Update()
     {   
        if(followTarget){
-            //only folllow player in the x axis
+            //set the value of the camera
+            //only folllow player in the x axis, the rest coordinate is from the camera
             targetPosition = new Vector2(target.transform.position.x, Mathf.Clamp(target.transform.position.y, minClam, maxClam));
             
             if(target.transform.localScale.x > 0f){
@@ -32,7 +33,7 @@ public class CameraFollow : MonoBehaviour
             } else{
                 targetPosition = new Vector3(targetPosition.x - addDistanceCamera, targetPosition.y, transform.position.z);
             }
-            //smooth transition 
+            //make smooth transition of the camera
             transform.position = Vector3.Lerp(transform.position, targetPosition, cameraSpeedMove * Time.deltaTime);
        }
     }

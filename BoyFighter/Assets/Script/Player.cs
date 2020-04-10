@@ -101,6 +101,7 @@ public class Player : MonoBehaviour
 
     public void Death(){
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        gameObject.GetComponent<Animation>().Play("fall_right");
     }
 
     public void Damage(int damage){

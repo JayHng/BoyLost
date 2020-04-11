@@ -13,12 +13,14 @@ public class Player : MonoBehaviour
     public Rigidbody2D boy;  
     public Animator anim;  
 
+    public GameMaster gm;
     // Start is called before the first frame update
     void Start()
     {
         //Get all the elements from the right category: Animator, Riridbody (for the main character)
         boy = gameObject.GetComponent<Rigidbody2D>();
         anim = gameObject.GetComponent<Animator>();
+        gm = GameObject.FindGameObjectWithTag("GameMaster").GetComponent<GameMaster>();
         currentHP = maxHP;
     }
 
@@ -112,5 +114,17 @@ public class Player : MonoBehaviour
     public void Knockback(float knockPow, Vector2 knockDirection){
         boy.velocity = new Vector2(0,0);
         boy.AddForce(new Vector2(knockDirection.x * -100, knockDirection.y + knockPow));
+    }
+    /// <summary>
+    /// Sent when another object enters a trigger collider attached to this
+    /// object (2D physics only).
+    /// </summary>
+    /// <param name="other">The other Collider2D involved in this collision.</param>
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        if(col.CompareTag("Coin")){
+            Destroy(col.gameObject);
+            gm.points +=5;
+        }
     }
 }

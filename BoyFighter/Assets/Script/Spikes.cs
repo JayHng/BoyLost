@@ -5,6 +5,9 @@ using UnityEngine;
 public class Spikes : MonoBehaviour
 {
     public Player player;
+    public int damage;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -19,7 +22,7 @@ public class Spikes : MonoBehaviour
     {
         //if the collider of the spike touch thing wwil the tag "Player", take damage and move to new position(Knockback)
         if(col.CompareTag("Player")){
-            player.Damage(1);
+            player.Damage(damage);
             player.Knockback(150f, player.transform.position);
         }
     }

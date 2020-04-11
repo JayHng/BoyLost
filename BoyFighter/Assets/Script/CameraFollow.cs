@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
-
     [SerializeField] GameObject target;
     [SerializeField] float addDistanceCamera = 1.0f;
     private Vector3 targetPosition;
@@ -13,11 +12,10 @@ public class CameraFollow : MonoBehaviour
     [SerializeField] float maxClam = 5.0f;
     [SerializeField] bool followTarget;
 
-
     // Start is called before the first frame update
     void Start()
     {
-       followTarget =true;
+       followTarget = true;
     }
 
     // Update is called once per frame 

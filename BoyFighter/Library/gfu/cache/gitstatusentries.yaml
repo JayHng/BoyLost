@@ -13,156 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-10T17:58:39.094-04:00
-  initializedAtString: 2020-04-10T15:34:16.355-04:00
+  lastUpdatedAtString: 2020-04-11T03:25:29.175-04:00
+  initializedAtString: 2020-04-11T03:21:52.835-04:00
   entries:
-  - path: BoyFighter\Assets\Animation.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation.meta
-    projectPath: Assets\Animation.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\attack_down_right.anim
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\attack_down_right.anim
-    projectPath: Assets\Animation\attack_down_right.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\attack_down_right.anim.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\attack_down_right.anim.meta
-    projectPath: Assets\Animation\attack_down_right.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\attack_right_point.anim
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\attack_right_point.anim
-    projectPath: Assets\Animation\attack_right_point.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\attack_right_point.anim.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\attack_right_point.anim.meta
-    projectPath: Assets\Animation\attack_right_point.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\attack_up_right.anim
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\attack_up_right.anim
-    projectPath: Assets\Animation\attack_up_right.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\attack_up_right.anim.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\attack_up_right.anim.meta
-    projectPath: Assets\Animation\attack_up_right.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\fall_right.anim
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\fall_right.anim
-    projectPath: Assets\Animation\fall_right.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\fall_right.anim.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\fall_right.anim.meta
-    projectPath: Assets\Animation\fall_right.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\idle.anim
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\idle.anim
-    projectPath: Assets\Animation\idle.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\idle.anim.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\idle.anim.meta
-    projectPath: Assets\Animation\idle.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\jump_right.anim
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\jump_right.anim
-    projectPath: Assets\Animation\jump_right.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\jump_right.anim.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\jump_right.anim.meta
-    projectPath: Assets\Animation\jump_right.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\Player.controller
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\Player.controller
-    projectPath: Assets\Animation\Player.controller
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\Player.controller.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\Player.controller.meta
-    projectPath: Assets\Animation\Player.controller.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\redflash.anim
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\redflash.anim
-    projectPath: Assets\Animation\redflash.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\redflash.anim.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\redflash.anim.meta
-    projectPath: Assets\Animation\redflash.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\run_right.anim
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\run_right.anim
-    projectPath: Assets\Animation\run_right.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Animation\run_right.anim.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Animation\run_right.anim.meta
-    projectPath: Assets\Animation\run_right.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Character\Enemy\Turret_ForTutorial_2.png
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Character\Enemy\Turret_ForTutorial_2.png
-    projectPath: Assets\Character\Enemy\Turret_ForTutorial_2.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Character\Enemy\Turret_ForTutorial_2.png.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Character\Enemy\Turret_ForTutorial_2.png.meta
-    projectPath: Assets\Character\Enemy\Turret_ForTutorial_2.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: BoyFighter\Assets\Scene1.unity
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scene1.unity
@@ -170,59 +23,171 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoyFighter\Assets\Scenes\Animation.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation.meta
-    projectPath: Assets\Scenes\Animation.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: BoyFighter\Assets\Scenes\Animation\attack_down_right.anim
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\attack_down_right.anim
     projectPath: Assets\Scenes\Animation\attack_down_right.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\attack_down_right.anim.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\attack_down_right.anim.meta
     projectPath: Assets\Scenes\Animation\attack_down_right.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\attack_right_point.anim
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\attack_right_point.anim
     projectPath: Assets\Scenes\Animation\attack_right_point.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\attack_right_point.anim.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\attack_right_point.anim.meta
     projectPath: Assets\Scenes\Animation\attack_right_point.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\attack_up_right.anim
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\attack_up_right.anim
     projectPath: Assets\Scenes\Animation\attack_up_right.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\attack_up_right.anim.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\attack_up_right.anim.meta
     projectPath: Assets\Scenes\Animation\attack_up_right.anim.meta
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\attack_down_right.anim
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\attack_down_right.anim
+    projectPath: Assets\Scenes\Animation\Boy\attack_down_right.anim
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Boy.meta
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\attack_down_right.anim.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy.meta
-    projectPath: Assets\Scenes\Animation\Boy.meta
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\attack_down_right.anim.meta
+    projectPath: Assets\Scenes\Animation\Boy\attack_down_right.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\attack_right_point.anim
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\attack_right_point.anim
+    projectPath: Assets\Scenes\Animation\Boy\attack_right_point.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\attack_right_point.anim.meta
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\attack_right_point.anim.meta
+    projectPath: Assets\Scenes\Animation\Boy\attack_right_point.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\attack_up_right.anim
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\attack_up_right.anim
+    projectPath: Assets\Scenes\Animation\Boy\attack_up_right.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\attack_up_right.anim.meta
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\attack_up_right.anim.meta
+    projectPath: Assets\Scenes\Animation\Boy\attack_up_right.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\fall_right.anim
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\fall_right.anim
+    projectPath: Assets\Scenes\Animation\Boy\fall_right.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\fall_right.anim.meta
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\fall_right.anim.meta
+    projectPath: Assets\Scenes\Animation\Boy\fall_right.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\idle.anim
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\idle.anim
+    projectPath: Assets\Scenes\Animation\Boy\idle.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\idle.anim.meta
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\idle.anim.meta
+    projectPath: Assets\Scenes\Animation\Boy\idle.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\jump_right.anim
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\jump_right.anim
+    projectPath: Assets\Scenes\Animation\Boy\jump_right.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\jump_right.anim.meta
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\jump_right.anim.meta
+    projectPath: Assets\Scenes\Animation\Boy\jump_right.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\Player.controller
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\Player.controller
+    projectPath: Assets\Scenes\Animation\Boy\Player.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\Player.controller.meta
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\Player.controller.meta
+    projectPath: Assets\Scenes\Animation\Boy\Player.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\redflash.anim
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\redflash.anim
+    projectPath: Assets\Scenes\Animation\Boy\redflash.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\redflash.anim.meta
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\redflash.anim.meta
+    projectPath: Assets\Scenes\Animation\Boy\redflash.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\run_right.anim
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\run_right.anim
+    projectPath: Assets\Scenes\Animation\Boy\run_right.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Scenes\Animation\Boy\run_right.anim.meta
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Boy\run_right.anim.meta
+    projectPath: Assets\Scenes\Animation\Boy\run_right.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -231,217 +196,173 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\fall_right.anim
     projectPath: Assets\Scenes\Animation\fall_right.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\fall_right.anim.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\fall_right.anim.meta
     projectPath: Assets\Scenes\Animation\fall_right.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\idle.anim
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\idle.anim
     projectPath: Assets\Scenes\Animation\idle.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\idle.anim.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\idle.anim.meta
     projectPath: Assets\Scenes\Animation\idle.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\jump_right.anim
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\jump_right.anim
     projectPath: Assets\Scenes\Animation\jump_right.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\jump_right.anim.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\jump_right.anim.meta
     projectPath: Assets\Scenes\Animation\jump_right.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\Player.controller
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Player.controller
     projectPath: Assets\Scenes\Animation\Player.controller
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\Player.controller.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Player.controller.meta
     projectPath: Assets\Scenes\Animation\Player.controller.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\redflash.anim
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\redflash.anim
     projectPath: Assets\Scenes\Animation\redflash.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\redflash.anim.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\redflash.anim.meta
     projectPath: Assets\Scenes\Animation\redflash.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\run_right.anim
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\run_right.anim
     projectPath: Assets\Scenes\Animation\run_right.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\run_right.anim.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\run_right.anim.meta
     projectPath: Assets\Scenes\Animation\run_right.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret.meta
-    projectPath: Assets\Scenes\Animation\Turret.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turet_AsSleep.anim
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turet_AsSleep.anim
-    projectPath: Assets\Scenes\Animation\Turret\turet_AsSleep.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turet_AsSleep.anim.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turet_AsSleep.anim.meta
-    projectPath: Assets\Scenes\Animation\Turret\turet_AsSleep.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turet_LookLeft.anim
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turet_LookLeft.anim
-    projectPath: Assets\Scenes\Animation\Turret\turet_LookLeft.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turet_LookLeft.anim.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turet_LookLeft.anim.meta
-    projectPath: Assets\Scenes\Animation\Turret\turet_LookLeft.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turet_LookRight.anim
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turet_LookRight.anim
-    projectPath: Assets\Scenes\Animation\Turret\turet_LookRight.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turet_LookRight.anim.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turet_LookRight.anim.meta
-    projectPath: Assets\Scenes\Animation\Turret\turet_LookRight.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turet_Sleep.anim
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turet_Sleep.anim
-    projectPath: Assets\Scenes\Animation\Turret\turet_Sleep.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turet_Sleep.anim.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turet_Sleep.anim.meta
-    projectPath: Assets\Scenes\Animation\Turret\turet_Sleep.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\Turret 1.controller
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\Turret
-      1.controller
-    projectPath: Assets\Scenes\Animation\Turret\Turret 1.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\Turret 1.controller.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\Turret
-      1.controller.meta
-    projectPath: Assets\Scenes\Animation\Turret\Turret 1.controller.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\Turret\Turret.controller
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\Turret.controller
     projectPath: Assets\Scenes\Animation\Turret\Turret.controller
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Assets\Scenes\Animation\Turret\Turret.controller.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\Turret.controller.meta
     projectPath: Assets\Scenes\Animation\Turret\Turret.controller.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turret_Awake.anim
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Assets\Scenes\Prefab.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turret_Awake.anim
-    projectPath: Assets\Scenes\Animation\Turret\turret_Awake.anim
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Prefab.meta
+    projectPath: Assets\Scenes\Prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turret_Awake.anim.meta
+  - path: BoyFighter\Assets\Scenes\Prefab\Bullet.prefab
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turret_Awake.anim.meta
-    projectPath: Assets\Scenes\Animation\Turret\turret_Awake.anim.meta
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Prefab\Bullet.prefab
+    projectPath: Assets\Scenes\Prefab\Bullet.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turret_ToLeft.anim
+  - path: BoyFighter\Assets\Scenes\Prefab\Bullet.prefab.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turret_ToLeft.anim
-    projectPath: Assets\Scenes\Animation\Turret\turret_ToLeft.anim
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Prefab\Bullet.prefab.meta
+    projectPath: Assets\Scenes\Prefab\Bullet.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turret_ToLeft.anim.meta
+  - path: BoyFighter\Assets\Script\AttackArea.cs
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turret_ToLeft.anim.meta
-    projectPath: Assets\Scenes\Animation\Turret\turret_ToLeft.anim.meta
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\AttackArea.cs
+    projectPath: Assets\Script\AttackArea.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turret_ToRight.anim
+  - path: BoyFighter\Assets\Script\AttackArea.cs.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turret_ToRight.anim
-    projectPath: Assets\Scenes\Animation\Turret\turret_ToRight.anim
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\AttackArea.cs.meta
+    projectPath: Assets\Script\AttackArea.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Animation\Turret\turret_ToRight.anim.meta
+  - path: BoyFighter\Assets\Script\Bullet.cs
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Turret\turret_ToRight.anim.meta
-    projectPath: Assets\Scenes\Animation\Turret\turret_ToRight.anim.meta
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\Bullet.cs
+    projectPath: Assets\Script\Bullet.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Script\Bullet.cs.meta
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\Bullet.cs.meta
+    projectPath: Assets\Script\Bullet.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Script\CameraFollow.cs
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\CameraFollow.cs
+    projectPath: Assets\Script\CameraFollow.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: BoyFighter\Assets\Script\Player.cs
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\Player.cs
+    projectPath: Assets\Script\Player.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: BoyFighter\Assets\Script\TurretAI.cs
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\TurretAI.cs
+    projectPath: Assets\Script\TurretAI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Assets\Script\TurretAI.cs.meta
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\TurretAI.cs.meta
+    projectPath: Assets\Script\TurretAI.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -457,12 +378,12 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\14\14093a663e217cba12c4daf6ce829e88
     projectPath: Library\Artifacts\14\14093a663e217cba12c4daf6ce829e88
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\18\185b98b4c39f3519206c8fe7c261ab8a
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\2b\2bdfb23ebd5ff189915587a1373651c0
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\18\185b98b4c39f3519206c8fe7c261ab8a
-    projectPath: Library\Artifacts\18\185b98b4c39f3519206c8fe7c261ab8a
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\2b\2bdfb23ebd5ff189915587a1373651c0
+    projectPath: Library\Artifacts\2b\2bdfb23ebd5ff189915587a1373651c0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -471,12 +392,40 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\39\397f0158e455a5821c4b514a8562a3b8
     projectPath: Library\Artifacts\39\397f0158e455a5821c4b514a8562a3b8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Library\Artifacts\3c\3c658d83712f892974665187a0137e66
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\3c\3c658d83712f892974665187a0137e66
     projectPath: Library\Artifacts\3c\3c658d83712f892974665187a0137e66
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\4c\4c22c8d7f14f1f7539aac5a0f06d1c41
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\4c\4c22c8d7f14f1f7539aac5a0f06d1c41
+    projectPath: Library\Artifacts\4c\4c22c8d7f14f1f7539aac5a0f06d1c41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\Artifacts\54\5465a0ecdc8c7e6d7a5464675f56386b
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\54\5465a0ecdc8c7e6d7a5464675f56386b
+    projectPath: Library\Artifacts\54\5465a0ecdc8c7e6d7a5464675f56386b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\Artifacts\66\66753eb94d617af7f2249c9803da09ae
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\66\66753eb94d617af7f2249c9803da09ae
+    projectPath: Library\Artifacts\66\66753eb94d617af7f2249c9803da09ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\Artifacts\69\694c1f70feb0622580f1d7c6c54c95ea
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\69\694c1f70feb0622580f1d7c6c54c95ea
+    projectPath: Library\Artifacts\69\694c1f70feb0622580f1d7c6c54c95ea
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -485,19 +434,40 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\7f\7f42aefce6fcbc5cb0d3b8af527f1958
     projectPath: Library\Artifacts\7f\7f42aefce6fcbc5cb0d3b8af527f1958
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\80\80846239324c11a8316064dfca659389
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\9f\9fe0fae73b28e166b8841e03573b9971
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\80\80846239324c11a8316064dfca659389
-    projectPath: Library\Artifacts\80\80846239324c11a8316064dfca659389
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\9f\9fe0fae73b28e166b8841e03573b9971
+    projectPath: Library\Artifacts\9f\9fe0fae73b28e166b8841e03573b9971
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Library\Artifacts\ab\ab1017fca191c7f99b8d917f7fce2ae5
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\ab\ab1017fca191c7f99b8d917f7fce2ae5
     projectPath: Library\Artifacts\ab\ab1017fca191c7f99b8d917f7fce2ae5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\bb\bb1273b5d70517d5fd925bedeff28575
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\bb\bb1273b5d70517d5fd925bedeff28575
+    projectPath: Library\Artifacts\bb\bb1273b5d70517d5fd925bedeff28575
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\Artifacts\bd\bd69d84e58f9fb1fd63943badd797e14
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\bd\bd69d84e58f9fb1fd63943badd797e14
+    projectPath: Library\Artifacts\bd\bd69d84e58f9fb1fd63943badd797e14
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\be\beaed73bbe9652d7c3419e099263f1b4
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\be\beaed73bbe9652d7c3419e099263f1b4
+    projectPath: Library\Artifacts\be\beaed73bbe9652d7c3419e099263f1b4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -506,6 +476,13 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\c8\c860968c266894dcdb83eded2dc0ef7e
     projectPath: Library\Artifacts\c8\c860968c266894dcdb83eded2dc0ef7e
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\e2\e214288b8db2283c6109d5629efecdfe
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\e2\e214288b8db2283c6109d5629efecdfe
+    projectPath: Library\Artifacts\e2\e214288b8db2283c6109d5629efecdfe
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: BoyFighter\Library\Artifacts\ee\ee73157b0a19234e061f733aa4a28c66
@@ -513,26 +490,26 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\ee\ee73157b0a19234e061f733aa4a28c66
     projectPath: Library\Artifacts\ee\ee73157b0a19234e061f733aa4a28c66
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Library\Artifacts\ee\eecd0adc5a298c0edce6677d18a5204c
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\ee\eecd0adc5a298c0edce6677d18a5204c
     projectPath: Library\Artifacts\ee\eecd0adc5a298c0edce6677d18a5204c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Library\Artifacts\f5\f5e822e9b10ef568e47a8920f17a70de
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\f5\f5e822e9b10ef568e47a8920f17a70de
     projectPath: Library\Artifacts\f5\f5e822e9b10ef568e47a8920f17a70de
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\f9\f908d27e121ecbc2963d78491bf78a7e
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\f6\f6c2aa4885fdc6efafe748a7033981f6
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\f9\f908d27e121ecbc2963d78491bf78a7e
-    projectPath: Library\Artifacts\f9\f908d27e121ecbc2963d78491bf78a7e
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\f6\f6c2aa4885fdc6efafe748a7033981f6
+    projectPath: Library\Artifacts\f6\f6c2aa4885fdc6efafe748a7033981f6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -541,8 +518,8 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\fd\fdaa87ccd4895f2ec7a885ff742891dd
     projectPath: Library\Artifacts\fd\fdaa87ccd4895f2ec7a885ff742891dd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Library\CurrentLayout-default.dwlt
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\CurrentLayout-default.dwlt
@@ -550,13 +527,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoyFighter\Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: BoyFighter\Library\EditorInstance.json
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\EditorInstance.json
@@ -564,13 +534,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\expandedItems
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: BoyFighter\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\gfu\cache\branches.yaml
@@ -613,6 +576,48 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: BoyFighter\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: BoyFighter\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: BoyFighter\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: BoyFighter\Library\ShaderCache\2\2446f7f0e5a75ed14a80353eb3346db5.bin
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\ShaderCache\2\2446f7f0e5a75ed14a80353eb3346db5.bin
+    projectPath: Library\ShaderCache\2\2446f7f0e5a75ed14a80353eb3346db5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\ShaderCache\7\726b3f7f6d170dc4abeeab2bf2851fff.bin
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\ShaderCache\7\726b3f7f6d170dc4abeeab2bf2851fff.bin
+    projectPath: Library\ShaderCache\7\726b3f7f6d170dc4abeeab2bf2851fff.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: BoyFighter\Library\SourceAssetDB
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\SourceAssetDB
@@ -620,34 +625,55 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: BoyFighter\Library\StateCache\Hierarchy\dcc936-06b07c25bc04c694c8.json
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\StateCache\Hierarchy\dcc936-06b07c25bc04c694c8.json
+    projectPath: Library\StateCache\Hierarchy\dcc936-06b07c25bc04c694c8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: BoyFighter\Library\StateCache\Hierarchy\dcc936-mainStage.json
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\StateCache\Hierarchy\dcc936-mainStage.json
     projectPath: Library\StateCache\Hierarchy\dcc936-mainStage.json
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: BoyFighter\Library\StateCache\SceneView\a6e358-06b07c25bc04c694c8.json
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\StateCache\SceneView\a6e358-06b07c25bc04c694c8.json
+    projectPath: Library\StateCache\SceneView\a6e358-06b07c25bc04c694c8.json
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\StateCache\Hierarchy\e24309-mainStage.json
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\StateCache\Hierarchy\e24309-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\e24309-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\StateCache\SceneView\6df7dc-mainStage.json
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\StateCache\SceneView\6df7dc-mainStage.json
-    projectPath: Library\StateCache\SceneView\6df7dc-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: BoyFighter\Library\StateCache\SceneView\a6e358-mainStage.json
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\StateCache\SceneView\a6e358-mainStage.json
     projectPath: Library\StateCache\SceneView\a6e358-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: BoyFighter\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: BoyFighter\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: BoyFighter\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: BoyFighter\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Temp\__Backupscenes\0.backup
@@ -659,6 +685,13 @@ MonoBehaviour:
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Temp\UnityTempFile-1d419220133ee3a48abf29f041890fbc
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-1d419220133ee3a48abf29f041890fbc
+    projectPath: Temp\UnityTempFile-1d419220133ee3a48abf29f041890fbc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

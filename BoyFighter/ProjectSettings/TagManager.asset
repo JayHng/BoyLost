@@ -8,6 +8,7 @@ TagManager:
   - MovingPlat
   - Ground
   - Spike
+  - Enemy
   layers:
   - Default
   - TransparentFX

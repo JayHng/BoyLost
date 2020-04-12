@@ -19,15 +19,15 @@ public class GroundCheck : MonoBehaviour
     //when the character hits the ground (when the box collider of our character hits the collider of the ground)
     void OnTriggerEnter2D(Collider2D collision) {
         if(collision.isTrigger == false){
-
+            player.grounded = true;
         }
-        player.grounded = true;
     }
 
     //if the character stays in the ground
     private void OnTriggerStay2D(Collider2D collision) {
-        if(collision.isTrigger == false){
-            
+        if(collision.isTrigger == false || collision.CompareTag("water"))
+        {
+            player.grounded = true;    
         }
 
         // if(collision.isTrigger == false && collision.CompareTag("MovingPlat"))
@@ -37,12 +37,14 @@ public class GroundCheck : MonoBehaviour
         //     player.transform.position = movingplat;
         // }
 
-        player.grounded = true;
 
     }
 
     //if the character is not on the ground
     private void OnTriggerExit2D(Collider2D collision) {
-        player.grounded = false;
+        if(collision.isTrigger == false || collision.CompareTag("water"))
+        {
+            player.grounded = false;
+        }
     }
 }

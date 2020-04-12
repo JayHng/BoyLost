@@ -8,8 +8,8 @@ public class CameraFollow : MonoBehaviour
     [SerializeField] float addDistanceCamera = 1.0f;
     private Vector3 targetPosition;
     public float cameraSpeedMove = 5.0f;
-    [SerializeField] float minClam = -3.0f;
-    [SerializeField] float maxClam = 5.0f;
+    [SerializeField] float minClam = -20.0f;
+    [SerializeField] float maxClam = 45.0f;
     [SerializeField] bool followTarget;
 
     // Start is called before the first frame update
@@ -27,9 +27,9 @@ public class CameraFollow : MonoBehaviour
             targetPosition = new Vector2(target.transform.position.x, Mathf.Clamp(target.transform.position.y, minClam, maxClam));
             
             if(target.transform.localScale.x > 0f){
-                targetPosition = new Vector3(targetPosition.x + addDistanceCamera, targetPosition.y + 2, transform.position.z);      
+                targetPosition = new Vector3(targetPosition.x + addDistanceCamera, targetPosition.y+2, transform.position.z);      
             } else{
-                targetPosition = new Vector3(targetPosition.x - addDistanceCamera, targetPosition.y + 2, transform.position.z);
+                targetPosition = new Vector3(targetPosition.x - addDistanceCamera, targetPosition.y+2, transform.position.z);
             }
             //make smooth transition of the camera
             transform.position = Vector3.Lerp(transform.position, targetPosition, cameraSpeedMove * Time.deltaTime);

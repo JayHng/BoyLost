@@ -13,195 +13,64 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-12T02:19:10.962-04:00
-  initializedAtString: 2020-04-12T01:29:58.465-04:00
+  lastUpdatedAtString: 2020-04-12T18:17:12.991-04:00
+  initializedAtString: 2020-04-12T14:24:16.522-04:00
   entries:
-  - path: BoyFighter\Assets\Resources.meta
+  - path: BoyFighter\Assets\Scenes\Platform\Platform\(Generic Platformer)(Tileset).png
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Resources.meta
-    projectPath: Assets\Resources.meta
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\Platform\(Generic
+      Platformer)(Tileset).png
+    projectPath: Assets\Scenes\Platform\Platform\(Generic Platformer)(Tileset).png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Resources\Game coin.wav
+  - path: BoyFighter\Assets\Scenes\Platform\Platform\(Generic Platformer)(Tileset).png.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Resources\Game coin.wav
-    projectPath: Assets\Resources\Game coin.wav
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\Platform\(Generic
+      Platformer)(Tileset).png.meta
+    projectPath: Assets\Scenes\Platform\Platform\(Generic Platformer)(Tileset).png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Resources\Game coin.wav.meta
+  - path: BoyFighter\Assets\Scenes\Platform\Platform\background1.png
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Resources\Game coin.wav.meta
-    projectPath: Assets\Resources\Game coin.wav.meta
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\Platform\background1.png
+    projectPath: Assets\Scenes\Platform\Platform\background1.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Resources\Rock Crash.wav
+  - path: BoyFighter\Assets\Scenes\Platform\Platform\background1.png.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Resources\Rock Crash.wav
-    projectPath: Assets\Resources\Rock Crash.wav
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\Platform\background1.png.meta
+    projectPath: Assets\Scenes\Platform\Platform\background1.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Resources\Rock Crash.wav.meta
+  - path: BoyFighter\Assets\Scenes\Platform\Platform\Materials.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Resources\Rock Crash.wav.meta
-    projectPath: Assets\Resources\Rock Crash.wav.meta
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\Platform\Materials.meta
+    projectPath: Assets\Scenes\Platform\Platform\Materials.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Resources\Sword.wav
+  - path: BoyFighter\Assets\Scenes\Platform\Platform\Materials\background1.mat
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Resources\Sword.wav
-    projectPath: Assets\Resources\Sword.wav
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\Platform\Materials\background1.mat
+    projectPath: Assets\Scenes\Platform\Platform\Materials\background1.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Resources\Sword.wav.meta
+  - path: BoyFighter\Assets\Scenes\Platform\Platform\Materials\background1.mat.meta
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Resources\Sword.wav.meta
-    projectPath: Assets\Resources\Sword.wav.meta
+      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\Platform\Materials\background1.mat.meta
+    projectPath: Assets\Scenes\Platform\Platform\Materials\background1.mat.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Assets\Scene1.unity
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scene1.unity
-    projectPath: Assets\Scene1.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Assets\Scene2.unity
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scene2.unity
-    projectPath: Assets\Scene2.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Assets\Scene2.unity.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scene2.unity.meta
-    projectPath: Assets\Scene2.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Assets\Scenes\Animation\Coin\Coin_0.controller
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Animation\Coin\Coin_0.controller
-    projectPath: Assets\Scenes\Animation\Coin\Coin_0.controller
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Assets\Scenes\Platform\UI\door.png
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\door.png
-    projectPath: Assets\Scenes\Platform\UI\door.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Platform\UI\door.png.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\door.png.meta
-    projectPath: Assets\Scenes\Platform\UI\door.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Scenes\Platform\UI\music.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\music.meta
-    projectPath: Assets\Scenes\Platform\UI\music.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.flac
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.flac
-    projectPath: Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.flac
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.flac.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.flac.meta
-    projectPath: Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.flac.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.mp3
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.mp3
-    projectPath: Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.mp3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.mp3.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.mp3.meta
-    projectPath: Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.mp3.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.ogg
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.ogg
-    projectPath: Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.ogg
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.ogg.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.ogg.meta
-    projectPath: Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.ogg.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.wav
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.wav
-    projectPath: Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.wav
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.wav.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.wav.meta
-    projectPath: Assets\Scenes\Platform\UI\music\menu_soundtrack_by_cactusdude.wav.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Assets\Script\AttackTrigger.cs
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\AttackTrigger.cs
-    projectPath: Assets\Script\AttackTrigger.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: BoyFighter\Assets\Script\CameraFollow.cs
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Assets\Script\CameraFollow.cs
     projectPath: Assets\Script\CameraFollow.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Assets\Script\Door.cs
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\Door.cs
-    projectPath: Assets\Script\Door.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Script\Door.cs.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\Door.cs.meta
-    projectPath: Assets\Script\Door.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Script\GameMaster.cs
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\GameMaster.cs
-    projectPath: Assets\Script\GameMaster.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -212,41 +81,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoyFighter\Assets\Script\Player.cs
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\Player.cs
-    projectPath: Assets\Script\Player.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Assets\Script\PlayerAttack.cs
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\PlayerAttack.cs
-    projectPath: Assets\Script\PlayerAttack.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Assets\Script\SoundManager.cs
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\SoundManager.cs
-    projectPath: Assets\Script\SoundManager.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Script\SoundManager.cs.meta
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\SoundManager.cs.meta
-    projectPath: Assets\Script\SoundManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Assets\Script\TurretAI.cs
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Assets\Script\TurretAI.cs
-    projectPath: Assets\Script\TurretAI.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: BoyFighter\Library\ArtifactDB
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\ArtifactDB
@@ -254,38 +88,31 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoyFighter\Library\Artifacts\03\03d02f8033baaf4f3e92b81bb55753bf
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\03\03d02f8033baaf4f3e92b81bb55753bf
-    projectPath: Library\Artifacts\03\03d02f8033baaf4f3e92b81bb55753bf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: BoyFighter\Library\Artifacts\06\06cebbed05b8bb9dd0aaa51ed0d15ee2
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\06\06cebbed05b8bb9dd0aaa51ed0d15ee2
     projectPath: Library\Artifacts\06\06cebbed05b8bb9dd0aaa51ed0d15ee2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Library\Artifacts\0f\0f9a62967c76116adf65be7be4c7abda
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\0f\0f9a62967c76116adf65be7be4c7abda
     projectPath: Library\Artifacts\0f\0f9a62967c76116adf65be7be4c7abda
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\0f\0fff33f5ccc016ec0c5021a19a608d8d
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\0f\0fff33f5ccc016ec0c5021a19a608d8d
-    projectPath: Library\Artifacts\0f\0fff33f5ccc016ec0c5021a19a608d8d
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\17\177511c16ab88fc694059ca4a34ff8b5
+  - path: BoyFighter\Library\Artifacts\10\10de87430b04fc5b3ccf7db48d571ed3
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\17\177511c16ab88fc694059ca4a34ff8b5
-    projectPath: Library\Artifacts\17\177511c16ab88fc694059ca4a34ff8b5
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\10\10de87430b04fc5b3ccf7db48d571ed3
+    projectPath: Library\Artifacts\10\10de87430b04fc5b3ccf7db48d571ed3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\Artifacts\11\116dcb8e3d039b6cde1607176572e84f
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\11\116dcb8e3d039b6cde1607176572e84f
+    projectPath: Library\Artifacts\11\116dcb8e3d039b6cde1607176572e84f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -294,68 +121,40 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\18\180434164889472242647527e5ba22b5
     projectPath: Library\Artifacts\18\180434164889472242647527e5ba22b5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\1a\1ae0a990b463adf3491dd4d86b47a2ac
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\1a\1ae0a990b463adf3491dd4d86b47a2ac
+    projectPath: Library\Artifacts\1a\1ae0a990b463adf3491dd4d86b47a2ac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Library\Artifacts\23\238b5585ae824f7bd4d07e7f865fb624
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\23\238b5585ae824f7bd4d07e7f865fb624
     projectPath: Library\Artifacts\23\238b5585ae824f7bd4d07e7f865fb624
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\26\26122be8e81197c7b662f29cebbf1947
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\26\26122be8e81197c7b662f29cebbf1947
-    projectPath: Library\Artifacts\26\26122be8e81197c7b662f29cebbf1947
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\29\293947189f40eeb69a33dd8289138ea1
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\29\293947189f40eeb69a33dd8289138ea1
-    projectPath: Library\Artifacts\29\293947189f40eeb69a33dd8289138ea1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\2b\2b2f5ead6f4e9823fc1362973e0c3c5b
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\2b\2b2f5ead6f4e9823fc1362973e0c3c5b
-    projectPath: Library\Artifacts\2b\2b2f5ead6f4e9823fc1362973e0c3c5b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\2d\2d68b3ab7c520c12d374b92b8a3f74f7
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\2d\2d68b3ab7c520c12d374b92b8a3f74f7
-    projectPath: Library\Artifacts\2d\2d68b3ab7c520c12d374b92b8a3f74f7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: BoyFighter\Library\Artifacts\2d\2d93513199131d5b471fab99f1cffd9e
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\2d\2d93513199131d5b471fab99f1cffd9e
     projectPath: Library\Artifacts\2d\2d93513199131d5b471fab99f1cffd9e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\30\30d759e822d2a7193fd5ccda4617723e
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\30\30d759e822d2a7193fd5ccda4617723e
-    projectPath: Library\Artifacts\30\30d759e822d2a7193fd5ccda4617723e
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\39\398415ea29c938d9bb9f0b92a6ad1cd8
+  - path: BoyFighter\Library\Artifacts\30\30a15a973b6bf9d121ee3c3186bd63c0
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\39\398415ea29c938d9bb9f0b92a6ad1cd8
-    projectPath: Library\Artifacts\39\398415ea29c938d9bb9f0b92a6ad1cd8
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\30\30a15a973b6bf9d121ee3c3186bd63c0
+    projectPath: Library\Artifacts\30\30a15a973b6bf9d121ee3c3186bd63c0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\3d\3d12dd1673119ca9f42c0e6dc7eae77f
+  - path: BoyFighter\Library\Artifacts\35\35a2949d4b31a92dff95dd7f61bbd5c5
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\3d\3d12dd1673119ca9f42c0e6dc7eae77f
-    projectPath: Library\Artifacts\3d\3d12dd1673119ca9f42c0e6dc7eae77f
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\35\35a2949d4b31a92dff95dd7f61bbd5c5
+    projectPath: Library\Artifacts\35\35a2949d4b31a92dff95dd7f61bbd5c5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -364,12 +163,19 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\4a\4a2e36d8aee5f4b1d7eb3753cad5cdae
     projectPath: Library\Artifacts\4a\4a2e36d8aee5f4b1d7eb3753cad5cdae
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\4b\4be4ea0fd17d424d53f4ebd2630838d2
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\4b\4be4ea0fd17d424d53f4ebd2630838d2
+    projectPath: Library\Artifacts\4b\4be4ea0fd17d424d53f4ebd2630838d2
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\4c\4cd174b6cb315768bd0de032989232d7
+  - path: BoyFighter\Library\Artifacts\4c\4c22c8d7f14f1f7539aac5a0f06d1c41
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\4c\4cd174b6cb315768bd0de032989232d7
-    projectPath: Library\Artifacts\4c\4cd174b6cb315768bd0de032989232d7
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\4c\4c22c8d7f14f1f7539aac5a0f06d1c41
+    projectPath: Library\Artifacts\4c\4c22c8d7f14f1f7539aac5a0f06d1c41
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -378,295 +184,169 @@ MonoBehaviour:
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\4e\4e20ba33ed72cf0c4fbbdd240a945e01
     projectPath: Library\Artifacts\4e\4e20ba33ed72cf0c4fbbdd240a945e01
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\54\54579090d1190b0da43f7d49cd06480e
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\54\54579090d1190b0da43f7d49cd06480e
-    projectPath: Library\Artifacts\54\54579090d1190b0da43f7d49cd06480e
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\54\5465a0ecdc8c7e6d7a5464675f56386b
+  - path: BoyFighter\Library\Artifacts\57\57a213c226ff7fa4e01ae55bd46557ba
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\54\5465a0ecdc8c7e6d7a5464675f56386b
-    projectPath: Library\Artifacts\54\5465a0ecdc8c7e6d7a5464675f56386b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\59\59a54c549b2d102890c2bd791e616f10
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\59\59a54c549b2d102890c2bd791e616f10
-    projectPath: Library\Artifacts\59\59a54c549b2d102890c2bd791e616f10
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\57\57a213c226ff7fa4e01ae55bd46557ba
+    projectPath: Library\Artifacts\57\57a213c226ff7fa4e01ae55bd46557ba
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\5b\5bd81bfb468f3c1389756e4309180794
+  - path: BoyFighter\Library\Artifacts\59\5997aa3cb07db27eeb8e69b0202bb60a
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\5b\5bd81bfb468f3c1389756e4309180794
-    projectPath: Library\Artifacts\5b\5bd81bfb468f3c1389756e4309180794
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\59\5997aa3cb07db27eeb8e69b0202bb60a
+    projectPath: Library\Artifacts\59\5997aa3cb07db27eeb8e69b0202bb60a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\60\603e32d23949c98cd07fbb95e1a80ca2
+  - path: BoyFighter\Library\Artifacts\5b\5bf4c568be77dccdd3f2157cbea3f6b1
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\60\603e32d23949c98cd07fbb95e1a80ca2
-    projectPath: Library\Artifacts\60\603e32d23949c98cd07fbb95e1a80ca2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\61\61f2251eacd5b3137b1d114672521ff0
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\61\61f2251eacd5b3137b1d114672521ff0
-    projectPath: Library\Artifacts\61\61f2251eacd5b3137b1d114672521ff0
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\5b\5bf4c568be77dccdd3f2157cbea3f6b1
+    projectPath: Library\Artifacts\5b\5bf4c568be77dccdd3f2157cbea3f6b1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\62\62ad1830bf9d1619f5d08ec8797ca6d3
+  - path: BoyFighter\Library\Artifacts\5c\5c6ec4055677f2a64f1d742c5399689f
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\62\62ad1830bf9d1619f5d08ec8797ca6d3
-    projectPath: Library\Artifacts\62\62ad1830bf9d1619f5d08ec8797ca6d3
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\5c\5c6ec4055677f2a64f1d742c5399689f
+    projectPath: Library\Artifacts\5c\5c6ec4055677f2a64f1d742c5399689f
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: BoyFighter\Library\Artifacts\66\66753eb94d617af7f2249c9803da09ae
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\66\66753eb94d617af7f2249c9803da09ae
     projectPath: Library\Artifacts\66\66753eb94d617af7f2249c9803da09ae
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: BoyFighter\Library\Artifacts\67\67a6eae696f66786bf8f1411be97f1d1
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\67\67a6eae696f66786bf8f1411be97f1d1
     projectPath: Library\Artifacts\67\67a6eae696f66786bf8f1411be97f1d1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: BoyFighter\Library\Artifacts\69\69fa2e363a769550373227fdd39471eb
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\69\69fa2e363a769550373227fdd39471eb
     projectPath: Library\Artifacts\69\69fa2e363a769550373227fdd39471eb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\6c\6c141887d66c1ec592ebc3b1022a75c7
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\6c\6c141887d66c1ec592ebc3b1022a75c7
-    projectPath: Library\Artifacts\6c\6c141887d66c1ec592ebc3b1022a75c7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\6d\6db4d3007aa0f209e3325aeeae13e049
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\6d\6db4d3007aa0f209e3325aeeae13e049
-    projectPath: Library\Artifacts\6d\6db4d3007aa0f209e3325aeeae13e049
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\79\791a34e817511984e0368fdff252c3aa
+  - path: BoyFighter\Library\Artifacts\71\71e7a1f69da824296b74961a737a707a
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\79\791a34e817511984e0368fdff252c3aa
-    projectPath: Library\Artifacts\79\791a34e817511984e0368fdff252c3aa
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\71\71e7a1f69da824296b74961a737a707a
+    projectPath: Library\Artifacts\71\71e7a1f69da824296b74961a737a707a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\Artifacts\7a\7a13b42466f9801a1b2d8901b0a323fd
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\7a\7a13b42466f9801a1b2d8901b0a323fd
+    projectPath: Library\Artifacts\7a\7a13b42466f9801a1b2d8901b0a323fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: BoyFighter\Library\Artifacts\7f\7fe820cafd49701e79af8f8f31c5052f
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\7f\7fe820cafd49701e79af8f8f31c5052f
     projectPath: Library\Artifacts\7f\7fe820cafd49701e79af8f8f31c5052f
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\8f\8f9d03400f0ccc4f9c8cae164746e7a4
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\8f\8f9d03400f0ccc4f9c8cae164746e7a4
+    projectPath: Library\Artifacts\8f\8f9d03400f0ccc4f9c8cae164746e7a4
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\85\8513d339941c94616537daa1bd670ef8
+  - path: BoyFighter\Library\Artifacts\98\98428b70e245b9f3ab543b5834b0ac28
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\85\8513d339941c94616537daa1bd670ef8
-    projectPath: Library\Artifacts\85\8513d339941c94616537daa1bd670ef8
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\98\98428b70e245b9f3ab543b5834b0ac28
+    projectPath: Library\Artifacts\98\98428b70e245b9f3ab543b5834b0ac28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\Artifacts\9c\9cbf7c7c4fb9366cb3597bcc22eaf9c9
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\9c\9cbf7c7c4fb9366cb3597bcc22eaf9c9
+    projectPath: Library\Artifacts\9c\9cbf7c7c4fb9366cb3597bcc22eaf9c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\Artifacts\9e\9eb440ca0aaf25104ba91ae26305dcab
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\9e\9eb440ca0aaf25104ba91ae26305dcab
+    projectPath: Library\Artifacts\9e\9eb440ca0aaf25104ba91ae26305dcab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\Artifacts\ab\ab8dc159728caad2a62d485d2c3622d3
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\ab\ab8dc159728caad2a62d485d2c3622d3
+    projectPath: Library\Artifacts\ab\ab8dc159728caad2a62d485d2c3622d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\Artifacts\ad\ad5bdc43afacef4048210ae57a440bc0
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\ad\ad5bdc43afacef4048210ae57a440bc0
+    projectPath: Library\Artifacts\ad\ad5bdc43afacef4048210ae57a440bc0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\Artifacts\b2\b2f0f91e6d9376ba84876eb200f0d434
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\b2\b2f0f91e6d9376ba84876eb200f0d434
+    projectPath: Library\Artifacts\b2\b2f0f91e6d9376ba84876eb200f0d434
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\Artifacts\bd\bd16cc37692c408cc015788a4d2e66c9
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\bd\bd16cc37692c408cc015788a4d2e66c9
+    projectPath: Library\Artifacts\bd\bd16cc37692c408cc015788a4d2e66c9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\85\858f4e793f9032465fb977b89c05380e
+  - path: BoyFighter\Library\Artifacts\c5\c5d7ae39d953d656505531f24592ce5b
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\85\858f4e793f9032465fb977b89c05380e
-    projectPath: Library\Artifacts\85\858f4e793f9032465fb977b89c05380e
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\c5\c5d7ae39d953d656505531f24592ce5b
+    projectPath: Library\Artifacts\c5\c5d7ae39d953d656505531f24592ce5b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\88\882321b17188df87fc9db7102109231e
+  - path: BoyFighter\Library\Artifacts\da\daed424b557b9bc8cf8588dd6ab42ad5
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\88\882321b17188df87fc9db7102109231e
-    projectPath: Library\Artifacts\88\882321b17188df87fc9db7102109231e
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\da\daed424b557b9bc8cf8588dd6ab42ad5
+    projectPath: Library\Artifacts\da\daed424b557b9bc8cf8588dd6ab42ad5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\89\890c8456f2fe37011543b39504b39961
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\89\890c8456f2fe37011543b39504b39961
-    projectPath: Library\Artifacts\89\890c8456f2fe37011543b39504b39961
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\89\898d38380c9a28ea7a92871f0d75b6a6
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\89\898d38380c9a28ea7a92871f0d75b6a6
-    projectPath: Library\Artifacts\89\898d38380c9a28ea7a92871f0d75b6a6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\8d\8df5df86f9a4927f4dcd76847130b1a8
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\8d\8df5df86f9a4927f4dcd76847130b1a8
-    projectPath: Library\Artifacts\8d\8df5df86f9a4927f4dcd76847130b1a8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\91\91cbc0552b8b6ac92c19f182fde0eccb
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\91\91cbc0552b8b6ac92c19f182fde0eccb
-    projectPath: Library\Artifacts\91\91cbc0552b8b6ac92c19f182fde0eccb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\93\937b724178f4a159ffe3237c8a8d71b2
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\93\937b724178f4a159ffe3237c8a8d71b2
-    projectPath: Library\Artifacts\93\937b724178f4a159ffe3237c8a8d71b2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\95\95aba37c3df2d07aa4a15de4ececaab2
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\95\95aba37c3df2d07aa4a15de4ececaab2
-    projectPath: Library\Artifacts\95\95aba37c3df2d07aa4a15de4ececaab2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\a1\a118ef2d2b984ca5f4aaffd6cf4eee15
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\a1\a118ef2d2b984ca5f4aaffd6cf4eee15
-    projectPath: Library\Artifacts\a1\a118ef2d2b984ca5f4aaffd6cf4eee15
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\a2\a259f597bd6fd74f311b5112a5eee9d4
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\a2\a259f597bd6fd74f311b5112a5eee9d4
-    projectPath: Library\Artifacts\a2\a259f597bd6fd74f311b5112a5eee9d4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\a2\a27b91304986b171ad97fa5e7b5e6982
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\a2\a27b91304986b171ad97fa5e7b5e6982
-    projectPath: Library\Artifacts\a2\a27b91304986b171ad97fa5e7b5e6982
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\b5\b5c4c003f7a15b21fed372f5688c6fb6
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\b5\b5c4c003f7a15b21fed372f5688c6fb6
-    projectPath: Library\Artifacts\b5\b5c4c003f7a15b21fed372f5688c6fb6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\c5\c5955017f8974a581dc341edff8a6504
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\c5\c5955017f8974a581dc341edff8a6504
-    projectPath: Library\Artifacts\c5\c5955017f8974a581dc341edff8a6504
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\c8\c855f00695bc9b347a92b63934eb2558
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\c8\c855f00695bc9b347a92b63934eb2558
-    projectPath: Library\Artifacts\c8\c855f00695bc9b347a92b63934eb2558
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\c9\c9ca1b11876aff55fd321b7311e44bed
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\c9\c9ca1b11876aff55fd321b7311e44bed
-    projectPath: Library\Artifacts\c9\c9ca1b11876aff55fd321b7311e44bed
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\cd\cd042fd74abe2b339d995d22aca89258
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\cd\cd042fd74abe2b339d995d22aca89258
-    projectPath: Library\Artifacts\cd\cd042fd74abe2b339d995d22aca89258
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\d4\d4ca374656685095b30a86303d0a21c4
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\d4\d4ca374656685095b30a86303d0a21c4
-    projectPath: Library\Artifacts\d4\d4ca374656685095b30a86303d0a21c4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\d5\d54e55fc6e1f1a39ba71f21342e7b8dc
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\d5\d54e55fc6e1f1a39ba71f21342e7b8dc
-    projectPath: Library\Artifacts\d5\d54e55fc6e1f1a39ba71f21342e7b8dc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\d9\d9f9901bb91ab75d4867ba4cabdecea3
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\d9\d9f9901bb91ab75d4867ba4cabdecea3
-    projectPath: Library\Artifacts\d9\d9f9901bb91ab75d4867ba4cabdecea3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\de\de796d9fc0c05e007d57a586bd10a716
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\de\de796d9fc0c05e007d57a586bd10a716
-    projectPath: Library\Artifacts\de\de796d9fc0c05e007d57a586bd10a716
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: BoyFighter\Library\Artifacts\e9\e96e36b2db200a8c56c8a0b33d02b0ea
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\e9\e96e36b2db200a8c56c8a0b33d02b0ea
     projectPath: Library\Artifacts\e9\e96e36b2db200a8c56c8a0b33d02b0ea
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\e9\e9861b05be024d7740bf7943f625c560
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: BoyFighter\Library\Artifacts\fa\fa27081ca743cd0349e00b4b9e823fe3
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\e9\e9861b05be024d7740bf7943f625c560
-    projectPath: Library\Artifacts\e9\e9861b05be024d7740bf7943f625c560
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\fa\fa27081ca743cd0349e00b4b9e823fe3
+    projectPath: Library\Artifacts\fa\fa27081ca743cd0349e00b4b9e823fe3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: BoyFighter\Library\Artifacts\ec\ec40c73fa4f8a71ad210968318421ded
+  - path: BoyFighter\Library\Artifacts\fe\fe24ee2a0e05d565a6991c11e1066903
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\ec\ec40c73fa4f8a71ad210968318421ded
-    projectPath: Library\Artifacts\ec\ec40c73fa4f8a71ad210968318421ded
+      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\fe\fe24ee2a0e05d565a6991c11e1066903
+    projectPath: Library\Artifacts\fe\fe24ee2a0e05d565a6991c11e1066903
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\ed\ede442dbfbbf941ef5d7e4e90ac19141
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\ed\ede442dbfbbf941ef5d7e4e90ac19141
-    projectPath: Library\Artifacts\ed\ede442dbfbbf941ef5d7e4e90ac19141
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Library\Artifacts\f0\f07a0b2dfa4ad7190d2c47d7fe502a88
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\Artifacts\f0\f07a0b2dfa4ad7190d2c47d7fe502a88
-    projectPath: Library\Artifacts\f0\f07a0b2dfa4ad7190d2c47d7fe502a88
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: BoyFighter\Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: BoyFighter\Library\EditorInstance.json
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\EditorInstance.json
@@ -716,20 +396,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoyFighter\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\SceneVisibilityState.asset
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: BoyFighter\Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -737,101 +403,31 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+  - path: BoyFighter\Library\ShaderCache\8\88dd7d5287b811411c59983b9f8e1a2f.bin
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      systems\2D Platform\BoyLost\BoyFighter\Library\ShaderCache\8\88dd7d5287b811411c59983b9f8e1a2f.bin
+    projectPath: Library\ShaderCache\8\88dd7d5287b811411c59983b9f8e1a2f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+  - path: BoyFighter\Library\ShaderCache\f\fb08a62675718603213148dd86548e26.bin
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      systems\2D Platform\BoyLost\BoyFighter\Library\ShaderCache\f\fb08a62675718603213148dd86548e26.bin
+    projectPath: Library\ShaderCache\f\fb08a62675718603213148dd86548e26.bin
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      systems\2D Platform\BoyLost\BoyFighter\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -863,20 +459,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: BoyFighter\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: BoyFighter\ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: BoyFighter\ProjectSettings\TagManager.asset
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\ProjectSettings\TagManager.asset
@@ -891,41 +473,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Temp\importedAudioTempPreview
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\importedAudioTempPreview
-    projectPath: Temp\importedAudioTempPreview
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Temp\importedAudioTempPreview 1
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\importedAudioTempPreview 1
-    projectPath: Temp\importedAudioTempPreview 1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Temp\importedAudioTempPreview 2
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\importedAudioTempPreview 2
-    projectPath: Temp\importedAudioTempPreview 2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Temp\importedAudioTempPreview 3
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\importedAudioTempPreview 3
-    projectPath: Temp\importedAudioTempPreview 3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: BoyFighter\Temp\importedAudioTempPreview 4
-    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\importedAudioTempPreview 4
-    projectPath: Temp\importedAudioTempPreview 4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: BoyFighter\Temp\UnityLockfile
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
       systems\2D Platform\BoyLost\BoyFighter\Temp\UnityLockfile
@@ -933,17 +480,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Temp\UnityTempFile-5243e9b0146cc794bae807dd7dd44422
+  - path: BoyFighter\Temp\UnityTempFile-56d08c8be6f24c94b85f7d0387690e6d
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-5243e9b0146cc794bae807dd7dd44422
-    projectPath: Temp\UnityTempFile-5243e9b0146cc794bae807dd7dd44422
+      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-56d08c8be6f24c94b85f7d0387690e6d
+    projectPath: Temp\UnityTempFile-56d08c8be6f24c94b85f7d0387690e6d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: BoyFighter\Temp\UnityTempFile-62f354498416aca48b38eaadb240ba98
+  - path: BoyFighter\Temp\UnityTempFile-58a204649dc5a724c97b49eb1c3e6593
     fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
-      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-62f354498416aca48b38eaadb240ba98
-    projectPath: Temp\UnityTempFile-62f354498416aca48b38eaadb240ba98
+      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-58a204649dc5a724c97b49eb1c3e6593
+    projectPath: Temp\UnityTempFile-58a204649dc5a724c97b49eb1c3e6593
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Temp\UnityTempFile-6a6bc65700aca9d45b075af6cc9823a2
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-6a6bc65700aca9d45b075af6cc9823a2
+    projectPath: Temp\UnityTempFile-6a6bc65700aca9d45b075af6cc9823a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Temp\UnityTempFile-a40d9980f0a7e66409d594481aca4096
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-a40d9980f0a7e66409d594481aca4096
+    projectPath: Temp\UnityTempFile-a40d9980f0a7e66409d594481aca4096
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Temp\UnityTempFile-b32b5206dbb7ac247b5805319a4f5d13
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-b32b5206dbb7ac247b5805319a4f5d13
+    projectPath: Temp\UnityTempFile-b32b5206dbb7ac247b5805319a4f5d13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: BoyFighter\Temp\UnityTempFile-e6809592b7e18034cbd4e9593d0ea627
+    fullPath: C:\Users\mhanh\OneDrive\Documents\SEMESTER\Winter 2020\Information
+      systems\2D Platform\BoyLost\BoyFighter\Temp\UnityTempFile-e6809592b7e18034cbd4e9593d0ea627
+    projectPath: Temp\UnityTempFile-e6809592b7e18034cbd4e9593d0ea627
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

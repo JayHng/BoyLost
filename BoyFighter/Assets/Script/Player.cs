@@ -7,13 +7,16 @@ public class Player : MonoBehaviour
 {
     public float speed = 30f, maxSpeed=3f, maxJump=4, jumpPow = 250f;
     public bool grounded = true, faceright = true, doubleJump = false;
+
     public int currentHP;
     public int maxHP = 5;
 
     public Rigidbody2D boy;  
-    public Animator anim;  
+    public Animator anim;
 
     public GameMaster gm;
+    public SoundManager sound;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -22,6 +25,7 @@ public class Player : MonoBehaviour
         anim = gameObject.GetComponent<Animator>();
         gm = GameObject.FindGameObjectWithTag("GameMaster").GetComponent<GameMaster>();
         currentHP = maxHP;
+        sound = GameObject.FindGameObjectWithTag("sound").GetComponent<SoundManager>();
     }
 
     // Update is called once per frame
@@ -29,7 +33,6 @@ public class Player : MonoBehaviour
     {
         //set the type bool for variable name "Grounded" into the name "grounded"(for the script)
         anim.SetBool("Grounded", grounded);
-
         //Set the float value into the variable
         anim.SetFloat("Speed", Mathf.Abs(boy.velocity.x));
 
@@ -85,7 +88,7 @@ public class Player : MonoBehaviour
         if(grounded){
             boy.velocity = new Vector2(boy.velocity.x * 0.7f, boy.velocity.y);
         }
-        if(currentHP<=0){
+        if(currentHP <= 0){
             Death();
         }
     }
@@ -103,6 +106,11 @@ public class Player : MonoBehaviour
 
     public void Death(){
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+
+        //if the player die, high score saves into the database
+        if(PlayerPrefs.GetInt("highscore") < gm.points){
+            PlayerPrefs.SetInt("highscore", gm.points);
+        }
         //gameObject.GetComponent<Animation>().Play("fall_right");
     }
 
@@ -119,12 +127,13 @@ public class Player : MonoBehaviour
     /// Sent when another object enters a trigger collider attached to this
     /// object (2D physics only).
     /// </summary>
-    /// <param name="other">The other Collider2D involved in this collision.</param>
+    /// <param name="col">The other Collider2D involved in this collision.</param>
     private void OnTriggerEnter2D(Collider2D col)
     {
         if(col.CompareTag("Coin")){
+            sound.playSound("coins");
             Destroy(col.gameObject);
-            gm.points +=5;
+            gm.points += 5;
         }
     }
 }

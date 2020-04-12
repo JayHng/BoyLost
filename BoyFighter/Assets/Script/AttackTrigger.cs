@@ -9,7 +9,7 @@ public class AttackTrigger : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D col) {
         if(col.isTrigger != true && col.CompareTag("Enemy")){
             //SendMessageUpwards is the method that belong to Unity framework. 
-            //SendMessageUpwards call the function "Damage" that I already created
+            //SendMessageUpwards call the function "Damage" that I already created in TurretAI
             col.SendMessageUpwards("Damage",dam);
         }
     }

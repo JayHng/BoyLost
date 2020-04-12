@@ -13,11 +13,13 @@ public class PlayerAttack : MonoBehaviour
 
     //check the trigger
     public Collider2D trigger;
-
+    public SoundManager sound;
     //Awake wil run before void Start
     private void Awake(){
         anim = gameObject.GetComponent<Animator>();
         trigger.enabled =false;
+        sound = GameObject.FindGameObjectWithTag("sound").GetComponent<SoundManager>();
+
     }
     // Start is called before the first frame update
     void Start()
@@ -33,6 +35,7 @@ public class PlayerAttack : MonoBehaviour
             isAttack = true;
             trigger.enabled = true;
             attackDelay = 0.3f;    
+            sound.playSound("sword");
         }
 
         //avoid player hit Attack too many times

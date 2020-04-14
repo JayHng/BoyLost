@@ -4,13 +4,15 @@ using UnityEngine;
 
 public class GroundCheck : MonoBehaviour
 {
-    public MovingPla mov;
+    public MovingPla movingplat;
     public Player player;
+
+    public Vector3 movep;
 
     // Start is called before the first frame update
     void Start()
     {
-        //mov = GameObject.FindGameObjectWithTag("MovingPlat").GetComponent<MovingPla>();
+        movingplat = GameObject.FindGameObjectWithTag("MovingPlat").GetComponent<MovingPla>();
 
         //Get all the component from class Player
         player = gameObject.GetComponentInParent<Player>();
@@ -24,18 +26,18 @@ public class GroundCheck : MonoBehaviour
     }
 
     //if the character stays in the ground
-    private void OnTriggerStay2D(Collider2D collision) {
+    private void OnTriggerStay2D(Collider2D collision) { 
         if(collision.isTrigger == false || collision.CompareTag("water"))
         {
             player.grounded = true;    
         }
 
-        // if(collision.isTrigger == false && collision.CompareTag("MovingPlat"))
-        // {
-        //     movingplat = player.transform.position;
-        //     movingplat.x = mov.speed * 1.3f;
-        //     player.transform.position = movingplat;
-        // }
+        if(collision.isTrigger == false && collision.CompareTag("MovingPlat"))
+        {
+            movep = player.transform.position;
+            movep.x += movingplat.speed/2;
+            player.transform.position = movep;
+        }
 
 
     }

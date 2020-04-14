@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MovingPla : MonoBehaviour
 {
-    public float speed = 0.05f, changeDirection = -1;
+    public float speed = 0.04f, changeDirection = -1;
     Vector3 Move;
     // Start is called before the first frame update
     void Start()

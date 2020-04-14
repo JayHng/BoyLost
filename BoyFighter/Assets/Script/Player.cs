@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
-    public float speed = 30f, maxSpeed=3f, maxJump=4, jumpPow = 250f;
+    public float speed = 50f, maxSpeed=3f, maxJump=4, jumpPow = 250f;
     public bool grounded = true, faceright = true, doubleJump = false;
 
     public int currentHP;
@@ -130,10 +130,29 @@ public class Player : MonoBehaviour
     /// <param name="col">The other Collider2D involved in this collision.</param>
     private void OnTriggerEnter2D(Collider2D col)
     {
+        //play sound when player hit the coin
         if(col.CompareTag("Coin")){
             sound.playSound("coins");
             Destroy(col.gameObject);
             gm.points += 5;
         }
+        //speed up for 
+        if(col.CompareTag("shoes")){
+            Destroy(col.gameObject);
+            maxSpeed = 4f;
+            speed = 100f;
+            StartCoroutine(timeCount(5));
+        }
+        if(col.CompareTag("heal")){
+            Destroy(col.gameObject);
+            currentHP += 1;
+        }
     }
+    IEnumerator timeCount (float time){
+        yield return new WaitForSeconds(time);
+        maxSpeed = 3f;
+        speed = 50f;
+        yield return 0;
+    }
+
 }

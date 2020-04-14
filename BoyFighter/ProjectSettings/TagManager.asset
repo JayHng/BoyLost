@@ -13,6 +13,9 @@ TagManager:
   - Coin
   - sound
   - water
+  - shoes
+  - heal
+  - shootPoint
   layers:
   - Default
   - TransparentFX

@@ -23,7 +23,7 @@ public class Spikes : MonoBehaviour
         //if the collider of the spike touch thing wwil the tag "Player", take damage and move to new position(Knockback)
         if(col.CompareTag("Player")){
             player.Damage(damage);
-            player.Knockback(150f, player.transform.position);
+            player.Knockback(10f, player.transform.position);
         }
     }
     // Update is called once per frame

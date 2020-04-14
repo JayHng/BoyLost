@@ -60,8 +60,8 @@ public class Player : MonoBehaviour
         //Add the force to the character, but only in the horizontal axis. (h is always be 1 in this case)
         boy.AddForce((Vector2.right) * speed * h);
 
-        //limit the speed 
-        //If the velocity if the character in x axis is bigger than maxSpeed(3)
+        //limit the speed of the character
+        //If the velocity of the character in x axis is bigger than maxSpeed(3)
         if (boy.velocity.x > maxSpeed){
             boy.velocity = new Vector2(maxSpeed, boy.velocity.y);
         }
@@ -121,7 +121,7 @@ public class Player : MonoBehaviour
 
     public void Knockback(float knockPow, Vector2 knockDirection){
         boy.velocity = new Vector2(0,0);
-        boy.AddForce(new Vector2(knockDirection.x * -100, knockDirection.y + knockPow));
+        boy.AddForce(new Vector2(knockDirection.x * 10, knockDirection.y * knockPow));
     }
     /// <summary>
     /// Sent when another object enters a trigger collider attached to this

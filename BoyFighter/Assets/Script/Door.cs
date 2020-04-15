@@ -21,7 +21,7 @@ public class Door : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D col) {
         if(col.CompareTag("Player")){
-            saveScore();
+            saveScore();       
             gm.Inputtext.text = ("Press E to enter");
         }
     }
@@ -35,6 +35,7 @@ public class Door : MonoBehaviour
     }
     private void OnTriggerExit2D(Collider2D col) {
         if(col.CompareTag("Player")){
+            //Display "Press E to Enter"
             gm.Inputtext.text = ("");
         }
     }
